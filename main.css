@@ -34,7 +34,13 @@ div {
   border-top-color: #d300c9;
  }
  
- h1, h2, h3 {
+
+ html {
+    display: table;
     margin: auto;
-    text-align: center;
- }
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
