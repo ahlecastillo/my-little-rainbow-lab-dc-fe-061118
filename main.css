@@ -31,3 +31,7 @@ div {
   #violet { 
   border-top-color: #d300c9;
  }
+ 
+ #body {
+   align-content: center;
+ }
